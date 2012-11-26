@@ -2,7 +2,7 @@
 //  MasterViewController.m
 //  Inventorius1
 //
-//  Created by Nicholas Vidovich on 11/26/12.
+//  Created by Nicholas Vido on 11/26/12.
 //  Copyright (c) 2012 Unit 91. All rights reserved.
 //
 
