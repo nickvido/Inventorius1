@@ -119,7 +119,7 @@
                                 </state>
                                 <connections>
                                     <action selector="buttonPressed:" destination="21" eventType="touchUpInside" id="Q5g-ZK-bd8"/>
-                                    <segue destination="bSc-Bg-lkJ" kind="push" id="LAx-zs-Eyx"/>
+                                    <segue destination="bSc-Bg-lkJ" kind="push" id="gop-5P-wen"/>
                                 </connections>
                             </button>
                         </subviews>
