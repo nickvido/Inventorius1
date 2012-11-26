@@ -22,6 +22,7 @@
 		0722035B166403A700A33E75 /* Inventorius1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 07220359166403A700A33E75 /* Inventorius1.xcdatamodeld */; };
 		0722035E166403A700A33E75 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0722035D166403A700A33E75 /* MasterViewController.m */; };
 		07220361166403A700A33E75 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07220360166403A700A33E75 /* DetailViewController.m */; };
+		525BCC0416640B31007FD837 /* InventoryCreateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 525BCC0316640B31007FD837 /* InventoryCreateViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,8 @@
 		0722035D166403A700A33E75 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		0722035F166403A700A33E75 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		07220360166403A700A33E75 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		525BCC0216640B31007FD837 /* InventoryCreateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InventoryCreateViewController.h; sourceTree = "<group>"; };
+		525BCC0316640B31007FD837 /* InventoryCreateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InventoryCreateViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,13 +99,15 @@
 			children = (
 				0722034A166403A700A33E75 /* AppDelegate.h */,
 				0722034B166403A700A33E75 /* AppDelegate.m */,
-				07220353166403A700A33E75 /* MainStoryboard_iPhone.storyboard */,
-				07220356166403A700A33E75 /* MainStoryboard_iPad.storyboard */,
-				0722035C166403A700A33E75 /* MasterViewController.h */,
-				0722035D166403A700A33E75 /* MasterViewController.m */,
 				0722035F166403A700A33E75 /* DetailViewController.h */,
 				07220360166403A700A33E75 /* DetailViewController.m */,
 				07220359166403A700A33E75 /* Inventorius1.xcdatamodeld */,
+				525BCC0216640B31007FD837 /* InventoryCreateViewController.h */,
+				525BCC0316640B31007FD837 /* InventoryCreateViewController.m */,
+				07220356166403A700A33E75 /* MainStoryboard_iPad.storyboard */,
+				07220353166403A700A33E75 /* MainStoryboard_iPhone.storyboard */,
+				0722035C166403A700A33E75 /* MasterViewController.h */,
+				0722035D166403A700A33E75 /* MasterViewController.m */,
 				07220342166403A700A33E75 /* Supporting Files */,
 			);
 			path = Inventorius1;
@@ -194,6 +199,7 @@
 				0722035B166403A700A33E75 /* Inventorius1.xcdatamodeld in Sources */,
 				0722035E166403A700A33E75 /* MasterViewController.m in Sources */,
 				07220361166403A700A33E75 /* DetailViewController.m in Sources */,
+				525BCC0416640B31007FD837 /* InventoryCreateViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,6 +326,7 @@
 				07220366166403A700A33E75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

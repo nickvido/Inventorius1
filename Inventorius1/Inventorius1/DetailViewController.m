@@ -69,4 +69,8 @@
     self.masterPopoverController = nil;
 }
 
+- (IBAction)buttonPressed:(id)sender
+{
+    //Navigate and stuff...
+}
 @end
